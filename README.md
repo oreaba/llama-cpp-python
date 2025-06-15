@@ -1,4 +1,5 @@
-"# llama-cpp-python" 
+# linkedin post:
+[Linkedin Post]: https://www.linkedin.com/feed/update/urn:li:activity:7339983675251437569/
 
 # 🚀 Running LLaMA.cpp Python with GPU Acceleration – Even on the Latest NVIDIA Blackwell (RTX 5090, B200!)
 
@@ -45,5 +46,4 @@ compiled_with_cublas = llama_cpp.llama_cpp.llama_supports_gpu_offload()
 print("✔️ Compiled with cuBLAS:" if compiled_with_cublas else "❌ cuBLAS not available")
 
 
-# linkedin post:
-https://www.linkedin.com/feed/update/urn:li:activity:7339983675251437569/
+
